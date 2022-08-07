@@ -1,6 +1,7 @@
-# sidebar
+# Sidebar
 
 Just mini project side menu bar.
+For responsive websites or components for react js.
 
 ## Technology
 - HTML5
